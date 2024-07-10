@@ -1,0 +1,7 @@
+.is-readonly {
+  outline: none;
+}
+.is-did {
+  text-decoration: line-through !important;
+  text-decoration-color: darkred !important;
+}
